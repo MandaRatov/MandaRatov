@@ -49,4 +49,3 @@ Passionné par la création d'applications complètes, du back-end au front-end,
 
 ---
 
-⭐️ N'hésitez pas à visiter mes projets et à laisser une étoile si vous les aimez !
