@@ -1,20 +1,20 @@
-# Hi! I'm Manda 👋
+# Hi! I'm Manda 
 
-### 💻 Développeur Full-Stack — Web & Mobile
+###  Développeur Full-Stack — Web & Mobile
 
 Passionné par la création d'applications complètes, du back-end au front-end, sur web comme sur mobile.
 
 ---
 
-## 🚀 À propos de moi
+##  À propos de moi
 
-- 🔭 Je travaille actuellement sur des projets full-stack **web** (React, Spring Boot) et **mobile** (Flutter, React Native)
-- 🌱 En apprentissage continu sur de nouvelles technologies et bonnes pratiques
-- ⚡ Toujours partant pour comprendre la logique derrière le code.
+-  Je travaille actuellement sur des projets full-stack **web** (React, Spring Boot) et **mobile** (Flutter, React Native)
+-  En apprentissage continu sur de nouvelles technologies et bonnes pratiques
+-  Toujours partant pour comprendre la logique derrière le code.
 
 ---
 
-## 🛠️ Stack technique
+##  Stack technique
 
 ### Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
