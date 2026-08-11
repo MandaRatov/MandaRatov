@@ -42,9 +42,9 @@ Passionné par la création d'applications complètes, du back-end au front-end,
 
 ---
 
-##  Me contacter
+##  Contact
 
-- 📧 Email : ratovonjanaharymanda@gmail.com
+-  Email : ratovonjanaharymanda@gmail.com
 
 
 ---
